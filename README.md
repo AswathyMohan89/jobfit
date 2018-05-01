@@ -1,15 +1,6 @@
 # JobFitt
-### http://athenajobfitt.herokuapp.com/index
-![jobfit](Images/JobFit.png)
 
-
-### Our Team:
-
-* Aiyanna Liz Mathew	
-* Anu Khandelwal 
-* Aruna Amaresan	
-* Aswathy Mohan
-* Pallavi Donwad
+![jobfit](Images/jobfit.PNG)<http://athenajobfitt.herokuapp.com/index>
 
 ### Overview
 Team Athena is looking to build a job fit recommender to indicate top highly likely position titles with mapping salary that would fit a given job seeker’s current skills, education, education level, years of experience and other factors. 
@@ -99,4 +90,12 @@ The main datasets used:
 *   App would suggest positions available right now in careers websites that map the title and salaries that were suggested 
 *   Find what skill gaps to be updated to achieve the job position needs for a job seeker. 
 
+
+### Conntributors:
+
+* Aiyanna Liz Mathew	
+* Anu Khandelwal 
+* Aruna Amaresan	
+* Aswathy Mohan
+* Pallavi Donwad
 
